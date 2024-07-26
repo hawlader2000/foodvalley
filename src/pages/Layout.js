@@ -4,7 +4,7 @@ function Layout() {
    <>
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
     <div className="container-fluid">
-      <a className="navbar-brand">FoodVallay</a>
+      <h5 className="navbar-brand">FoodVallay</h5>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
         <span className="navbar-toggler-icon"></span>
       </button>
