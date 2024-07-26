@@ -1,0 +1,150 @@
+.searchbox{
+    margin-left:350px;
+    width: 400px;
+}
+.navbar li a{
+    color: white;
+    margin-left:20px;
+}
+.headingtext .item{
+    margin-top: -10px;
+}
+.headingtext img{
+    height: 250px;
+    width: 350px;
+}
+.box .item{
+    padding-left: 50px;
+}
+.box .item1{
+    padding-left: 15px;
+}
+.socialmediaicon{
+    margin-top: -160px;
+}
+.socialmediaicon .item{
+    padding-left:10px;
+}
+.socialmediaicon img{
+    height:26px;
+    width: 26x;
+}
+.populardish{
+    margin-top:130px;
+}
+.populardish h4{
+    margin-top:-20px;
+}
+.populardish img{
+    height: 120px;
+    width: 220px;
+}
+.populardish .item{
+    margin-left:5px;
+}
+.section2 img{
+width:370px;
+height:380px;
+}
+.section2 h4{
+    margin-top:-8px;
+}
+.section2 .item2{
+    padding-right:65px;
+}
+.section2 .item2 img{
+    height:240px;
+} 
+.section2 .btn{
+    margin-top:40px;
+    margin-left:70px;
+}
+.aboutus img{
+    width: 1150px;
+    height: 120px;
+}
+.aboutus .headingtxt{
+    margin-top:-95px;
+}
+.aboutus .headingtxt .item{
+font-size:27px;
+}
+.aboutus .headingtxt .item2{
+    margin-top:-14px;
+}
+.aboutusimg2{
+        border: 1px solid red;
+        border-radius: 12px;
+        padding:15px;
+        margin-left:150px;
+        margin-top: 40px;
+        width: 1000px;
+}
+.aboutusimg2 img{
+    height: 200px;
+    width: 350px;
+    padding-left:10px;
+    border-radius:20px;
+}
+.aboutusimg2 .paragraphtxt{
+    margin-left:-100px;
+    font-size:14px;
+    margin-top:8px;
+}
+.storysection p{
+    padding-left:170px;
+    font-size:13px;
+    padding-top: 6px;
+}
+.storysection img{
+    height: 200px;
+    width: 450px;
+    border-radius:5px;
+}
+.ourshef{
+    background-color: pink;
+}
+.ourshef p{
+    padding-left:103px;
+    font-size:13px;
+}
+.cheif img{
+    height:170px;
+    padding-left:150px;
+}
+.contactUs img{
+    width: 1150px;
+    height: 120px;
+    padding-left:-60px;
+}
+.contactUs .headingtxt{
+    margin-top:-95px;
+}
+.contactUs .headingtxt .item{
+font-size:27px;
+}
+.contactUs .headingtxt .item2{
+    margin-top:-14px;
+}
+.address{
+    padding-left:200px;
+}
+.address .text{
+    font-size:12px;
+    line-height:0px;
+    margin:0px;
+    padding:0px;
+}
+.address .heading1{
+    color: red;
+    font-weight: bold;
+}
+.followusicon .item{
+    padding-left:14px;
+}
+.time .item{
+    padding-left:10px;
+}
+.footer .footeritem{
+    padding-left:45px;
+}
