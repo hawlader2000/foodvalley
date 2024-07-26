@@ -24,7 +24,7 @@ function Layout() {
           <button className="btn btn-primary" type="button">Search</button>
           </form>
           <li className="nav-item">
-            <a className="nav-link">Dashboard</a>
+            <a className="nav-link" href="/contactus">Dashboard</a>
           </li>
         </ul>
       </div>
