@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 function Layout() {
   return (
    <>
@@ -11,20 +12,20 @@ function Layout() {
       <div className="collapse navbar-collapse text-white" id="mynavbar">
         <ul className="navbar-nav me-auto">
           <li className="nav-item">
-            <a className="nav-link" href="/">Home</a>
+            <Link className="nav-link" to="/">Home</Link>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/about">About</a>
+            <Link className="nav-link" to="/about">About</Link>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/contactus">ContactUs</a>
+            <Link className="nav-link" to="/contactus">ContactUs</Link>
           </li>
           <form className="d-flex searchbox">
           <input className="form-control me-2" type="text" placeholder="Search" />
           <button className="btn btn-primary" type="button">Search</button>
           </form>
           <li className="nav-item">
-            <a className="nav-link" href="/contactus">Dashboard</a>
+            <Link className="nav-link" to="/contactus">Dashboard</Link>
           </li>
         </ul>
       </div>
